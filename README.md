@@ -4,11 +4,11 @@ I’m an aspiring Computer Science student with a focus on **Cybersecurity** and
 
 ### 🛠 My Technical Toolkit
 - **Languages:** Java, Markdown
-- **Creative & Design:** Adobe Premiere Pro, After Effects, Illustrator, Photoshop, AutoCAD
+- **Creative & Design:** Adobe Premiere Pro, (limited) After Effects, Illustrator, Photoshop, (limited) AutoCAD
 - **Interests:** Artificial Intelligence, Cybersecurity, Game Dev (Godot), Quantum Science, and Linux
 
 ### 🚀 Current Projects
-- **[Project Name]:** Working on [briefly describe a current project, e.g., a Godot game or a Java tool].
+- **AP CSA Final Project:** Working on an imitation of the game, [A Dark Room](http://adarkroom.doublespeakgames.com), using Java and JavaFX for GUI rendering.
 - **Community Tech:** Previously migrated metadata for local emergency services 
 - **Learning:** Diving deeper into 3D modeling with AutoCAD and exploring cybersecurity protocols.
 
