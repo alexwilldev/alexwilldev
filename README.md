@@ -5,7 +5,7 @@ I’m an aspiring Computer Science student with a focus on **Cybersecurity** and
 ### 🛠 My Technical Toolkit
 - **Languages:** Java, Markdown
 - **Creative & Design:** Adobe Premiere Pro, After Effects, Illustrator, Photoshop, (limited) AutoCAD
-- **Interests:** Artificial Intelligence, Cybersecurity, Quantum Science, and Linux
+- **Interests:** Artificial Intelligence, Cybersecurity, and Linux
 
 ### 🏆 Leadership & Background
 - **Eagle Scout:** Applying leadership and structured problem-solving to lead a team to construct a small set of bookshelves
