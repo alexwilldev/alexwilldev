@@ -1,6 +1,6 @@
 # Hi, I'm Alex! 👋
 
-I’m an aspiring Computer Science student with a focus on **Cybersecurity** and **Systems Architecture**. I bridge the gap between technical logic and visual design, combining my background in Java and engineering with professional certifications in Adobe Creative Cloud.
+I’m a first-year honors student studying computer science with a focus on cyber security at the North Carolina Agricultural & Technical State University. I bridge the gap between technical logic and visual design, combining my background in Java and engineering with professional certifications in Adobe Creative Cloud.
 
 ### 🛠 My Technical Toolkit
 - **Languages:** Java, Markdown
