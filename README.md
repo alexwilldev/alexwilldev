@@ -14,4 +14,7 @@ I’m an aspiring Computer Science student with a focus on **Cybersecurity** and
 ### 📬 Connect with Me
 - **LinkedIn:** [linkedin.com/in/awilliams30](https://linkedin.com/in/awilliams30)
 
+### Fun Facts 
+- **Apple Developer** My question was featured during WWDC26's "Privacy and Security Group Lab" session. See [https://www.youtube.com/live/K0sFafYm59Q?si=8WFC4Upnwfyio0uN&t=2870](https://www.youtube.com/live/K0sFafYm59Q?si=8WFC4Upnwfyio0uN&t=2870) at ~47:50
+
 
