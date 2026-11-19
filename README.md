@@ -1,29 +1,39 @@
-# Hi, I'm Alex 👋
+# Alex Williams
 
-I'm a first-year Honors College student at North Carolina A&T State University, studying Computer Science with a Cybersecurity concentration. I work at the intersection of code and design: I write Java and Python, and I hold Adobe certifications in visual and video design.
+Computer Science (Cybersecurity) at North Carolina A&T, Honors College, class of 2030.
+I build security tools, and I care about how they look. Adobe-certified in visual and video design.
 
-### 🛠 Toolkit
-- **Languages:** Java, Python
-- **Tools & Platforms:** Git, GitHub, Linux, macOS, Fusion, AutoCAD
-- **Design:** Adobe Premiere Pro, After Effects, Illustrator, Photoshop
-- **Certifications:** Adobe Certified Professional (Visual Design, Video Design)
-- **Interests:** Artificial intelligence, cybersecurity, Linux, hardware projects
+**Looking for Summer 2027 internships in security or software engineering.**
 
-### 🚀 Current Projects
-- **PortWatcher:** A macOS utility that uses IOKit to detect USB devices in real time and flag unrecognized ones (BadUSB-style threats)
-- **Raspberry Pi Homelab:** A headless Pi server reached over SSH and Tailscale, with a custom 3D-printed enclosure designed in Fusion
+## Building now
 
-### 🏆 Highlights
-- **JSNN Hackathon, 1st Place (Nov 2026):** Built an E. coli digital twin that predicted cell count within 4.8% of real data
-- **Functional Backpack for People Experiencing Homelessness (Jul 2026):** Led research that turned homelessness and public-health data into the design criteria for a 4-person prototype team
+**[Countersign](https://github.com/alexwilldev/countersign)**: expense software built around catching insider fraud.
+Multi-tenant Postgres with row-level security, separation of duties, a tamper-evident audit log,
+and rules that flag split purchases and just-under-the-limit spending. *MVP shipping December 2026.*
 
-### 🏕 Leadership & Background
-- **Eagle Scout:** Led 7 volunteers over 64 service hours to build four modular bookcases, finishing within a $740 budget
-- **Student Researcher:** Completed an accelerated quantum computing program and presented findings to a panel of professors
-- **NSBE:** Member, NC A&T Chapter
+Learning along the way: SQL and Postgres security, Flask, TypeScript + React.
 
-### 📬 Connect with Me
-- **LinkedIn:** [linkedin.com/in/awilliams30](https://linkedin.com/in/awilliams30)
+## Highlights
 
-### Fun Facts
-- My question was featured in WWDC26's "Privacy and Security Group Lab" session ([~47:50](https://www.youtube.com/live/K0sFafYm59Q?si=8WFC4Upnwfyio0uN&t=2870))
+- **WWDC26:** my question was featured in Apple's Privacy & Security Group Lab ([~47:50](https://www.youtube.com/live/K0sFafYm59Q?si=8WFC4Upnwfyio0uN&t=2870))
+- **1st place, JSNN Hackathon (Nov 2026):** two-person team running parallel AI coding agents coordinated through GitHub Issues. Built an E. coli digital twin that predicted cell count within 4.8% of real data. [repo](https://github.com/alexwilldev/jsnn-hackathon)
+- **HackNCAT, Cisco track (Nov 2026):** Sentinel, an overseer that risk-scores a swarm of AI agents and recommends quarantine to a human. I was the integrator for the multi-agent build. [repo](LINK)
+- **Research lead, functional backpack for people experiencing homelessness (Jul 2026):** turned public-health data into five weighted design criteria for a 4-person prototype team
+
+## Toolkit
+
+**Languages:** Python, Java · *learning* SQL, TypeScript
+**Tools:** Git, GitHub Actions, Linux, macOS, Supabase
+**Design:** Illustrator, Photoshop, Premiere Pro, After Effects (Adobe Certified Professional)
+**Hardware:** Raspberry Pi, Fusion, AutoCAD
+
+## Side projects
+
+- **Raspberry Pi homelab:** headless server over SSH and Tailscale, in an enclosure I designed and 3D-printed. Becoming a self-hosted monitoring platform with anomaly detection in early 2027.
+- **PortWatcher (paused):** macOS prototype that detects USB devices through IOKit, aimed at BadUSB-style threats.
+
+## Beyond code
+
+Eagle Scout (led 7 volunteers through a 64-hour build on a $740 budget) · NSBE member · quantum computing research cohort, Winston-Salem State
+
+[LinkedIn](https://linkedin.com/in/awilliams30) · [Email](mailto:alexwil2706@gmail.com)
