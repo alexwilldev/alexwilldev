@@ -7,12 +7,11 @@ I build security tools, and I care about how they look. Adobe-certified in visua
 
 ## Building now
 
-**[Countersign](https://github.com/alexwilldev/countersign)**: web-based expense software designed around catching insider fraud, with a React dashboard on a Postgres backend.
-So far: a multi-tenant Postgres schema with deny-by-default row-level security, plus Gitleaks and Bandit scans in CI.
-Next up: the dashboard UI, separation of duties, a tamper-evident audit log, and rules that flag split purchases and just-under-the-limit spending, followed by a machine learning model that scores unusual expenses. *MVP target: December 2026.*
+**[Countersign](https://github.com/alexwilldev/countersign)**: web-based expense software designed around catching insider fraud, with a React dashboard on a Postgres backend. *MVP target: December 2026.*
 
-Learning along the way: SQL and Postgres security, Flask, TypeScript + React.
-
+- **Built so far:** multi-tenant Postgres schema with deny-by-default row-level security; Gitleaks and Bandit scans in CI
+- **Next up:** dashboard UI, separation of duties, a tamper-evident audit log, and rules that flag split purchases and just-under-the-limit spending
+- **Later:** a machine learning model that scores unusual expenses
 ## Highlights
 
 - **1st place overall, JSNN Hackathon (Nov 2026):** two-person team running parallel AI coding agents coordinated through GitHub Issues. I owned the E. coli digital twin, which predicted cell count within 4.8% of real data. [repo](https://github.com/AICSquared/jsnn-hackathon)
